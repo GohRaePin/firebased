@@ -1,4 +1,4 @@
-package com.firebased
+package com.anonymous.firebased
 
 import android.app.Application
 import android.content.res.Configuration

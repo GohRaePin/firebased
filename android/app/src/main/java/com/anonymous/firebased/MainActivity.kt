@@ -1,4 +1,4 @@
-package com.firebased
+package com.anonymous.firebased
 
 import android.os.Build
 import android.os.Bundle
